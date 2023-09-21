@@ -1,0 +1,19 @@
+ul { 
+  width: 400px;
+  display: inline-block;
+  list-style-type: none;
+}
+li { 
+  border: 1px solid black;
+  padding: 30px 20px;
+  margin: 0 0 10px 0;
+}
+h2 {
+  margin: 0;
+}
+div {
+  text-align: right;
+}
+hr {
+  margin: 0 0 10px 0;
+}
